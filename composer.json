@@ -1,7 +1,8 @@
 {
-    "name": "spatie/pdf-to-text",
+    "name": "CasonWebDev/pdf-to-text",
     "description": "Extract text from a pdf",
     "keywords": [
+        "CasonWebDev",
         "spatie",
         "pdf-to-text"
     ],
